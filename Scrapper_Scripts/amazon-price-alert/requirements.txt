@@ -24,7 +24,7 @@ requests==2.24.0
 requests-html==0.10.0
 six==1.15.0
 soupsieve==2.0.1
-sqlparse==0.4.1
+sqlparse==0.5.4
 tqdm==4.49.0
 urllib3==1.26.18
 w3lib==1.22.0
